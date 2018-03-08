@@ -1,6 +1,6 @@
 #home1 {
   text-align:center;
-  padding:50px;
+  padding:150px 40px 30px 40px;
   background:url(../../assets/img/home1.jpg) no-repeat;
   background-size:cover;
   margin:0 auto;
@@ -9,7 +9,7 @@
 #home1 .jumbotron {
   background-color:rgba(255,255,255,0.26);
   padding:40px;
-  max-width:800px;
+  max-width:750px;
   margin:0 auto;
 }
 
@@ -43,13 +43,5 @@
   padding:30px;
   max-width:600px;
   margin:0 auto;
-}
-
-#contact_form {
-  width:auto;
-  height:auto;
-}
-
-#contact-box {
 }
 
